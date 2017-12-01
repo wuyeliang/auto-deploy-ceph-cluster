@@ -10,7 +10,7 @@ https://selfservicecloud.cn/nextcloud/index.php/s/yPdde86vNI3OjLC
 代码中有kernel的rpm包，git无法上传，到此处下载
 ```
 
-链接：https://pan.baidu.com/s/1qYt88pA 密码：gy17
+链接：https://pan.baidu.com/s/1pLPyJJP 密码：zk8y
 ```
 
 diskrc定义各个节点上的磁盘，一行对应一块磁盘
