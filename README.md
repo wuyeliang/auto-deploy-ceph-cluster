@@ -2,10 +2,7 @@
 ```
 CentOS-7-x86_64-Minimal-1511.iso
 ```
-相关视频
-```
-https://selfservicecloud.cn/nextcloud/index.php/s/yPdde86vNI3OjLC
-```
+
 
 代码中有kernel的rpm包，git无法上传，到此处下载
 ```
